@@ -1,2 +1,2 @@
-# workshop-typescript
+# Typescript workshop
 Workshop | Typescript | Materiales
